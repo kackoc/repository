@@ -1,0 +1,36 @@
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.deps.json
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.dll
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.pdb
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.AssemblyInfo.cs
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.dll
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\refint\AnimalService.dll
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.pdb
+C:\Users\matth\Desktop\WSB\UnitTests\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\ref\AnimalService.dll
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.deps.json
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.dll
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.pdb
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.csproj.AssemblyReference.cache
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.AssemblyInfoInputs.cache
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.AssemblyInfo.cs
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.csproj.CoreCompileInputs.cache
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.dll
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\refint\AnimalService.dll
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.pdb
+C:\Users\Lodomir\Desktop\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\ref\AnimalService.dll
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.deps.json
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.dll
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\bin\Debug\net6.0\AnimalService.pdb
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.csproj.AssemblyReference.cache
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.AssemblyInfoInputs.cache
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.AssemblyInfo.cs
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.csproj.CoreCompileInputs.cache
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.dll
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\refint\AnimalService.dll
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\AnimalService.pdb
+C:\Users\KAPI\Desktop\STUDIA\SEMESTR 4\kozłowski\NUNIT\NUnit\unit-testing-using-nunit\AnimalService\obj\Debug\net6.0\ref\AnimalService.dll
